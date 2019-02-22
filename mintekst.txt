@@ -6,5 +6,9 @@ som
 jeg 
 har 
 skrivet.
-
+Nu
+tilføjer
+jeg
+denne
+del.
 Så er der lavet en ny branch.
