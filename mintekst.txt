@@ -1,7 +1,7 @@
 Her
 er
 en 
-tekst
+tekst,
 som
 jeg 
 har 
